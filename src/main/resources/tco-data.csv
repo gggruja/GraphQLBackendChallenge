@@ -1,0 +1,501 @@
+make,model,trim,year,tco
+Acura,ILX,4dr Sedan (2.0L 4cyl 5A),2018,5184
+Acura,ILX,Premium Package 4dr Sedan (2.0L 4cyl 5A),2018,3584
+Acura,ILX,Premium Package 4dr Sedan (2.4L 4cyl 6M),2018,2194
+Acura,ILX,Technology Package 4dr Sedan (2.0L 4cyl 5A),2018,4551
+Acura,MDX,4dr SUV (3.5L 6cyl 6A),2018,4477
+Acura,MDX,Advance and Entertainment Packages 4dr SUV (3.5L 6cyl 6A),2018,2242
+Acura,MDX,SH-AWD 4dr SUV AWD (3.5L 6cyl 6A),2018,4161
+Acura,MDX,SH-AWD w/Advance and Entertainment Packages 4dr SUV AWD (3.5L 6c,2018,3489
+Acura,MDX,SH-AWD w/Technology and Entertainment Packages 4dr SUV AWD (3.5L,2018,3416
+Acura,MDX,SH-AWD w/Technology Package 4dr SUV AWD (3.5L 6cyl 6A),2018,4102
+Acura,MDX,Technology and Entertainment Packages 4dr SUV (3.5L 6cyl 6A),2018,2662
+Acura,MDX,Technology Package 4dr SUV (3.5L 6cyl 6A),2018,1468
+Acura,NSX,2dr Coupe AWD (3.5L 6cyl gas/electric hybrid 7A),2018,2811
+Acura,RDX,4dr SUV (3.5L 6cyl 6A),2018,5382
+Acura,RDX,4dr SUV AWD (3.5L 6cyl 6A),2018,5459
+Acura,RDX,Technology Package 4dr SUV (3.5L 6cyl 6A),2018,1482
+Acura,RDX,Technology Package 4dr SUV AWD (3.5L 6cyl 6A),2018,5861
+Acura,RLX,4dr Sedan (3.5L 6cyl 6A),2018,2156
+Acura,RLX,Advance Package 4dr Sedan (3.5L 6cyl 6A),2018,5698
+Acura,RLX,Krell Audio Package 4dr Sedan (3.5L 6cyl 6A),2018,988
+Acura,RLX,Navigation 4dr Sedan (3.5L 6cyl 6A),2018,5030
+Acura,RLX,Technology Package 4dr Sedan (3.5L 6cyl 6A),2018,998
+Acura,TLX,4dr Sedan (2.4L 4cyl 8AM),2018,2018
+Acura,TLX,4dr Sedan (3.5L 6cyl 9A),2018,1141
+Acura,TLX,Advance Package 4dr Sedan (3.5L 6cyl 9A),2018,4804
+Acura,TLX,SH-AWD w/Advance Package 4dr Sedan AWD (3.5L 6cyl 9A),2018,1021
+Acura,TLX,SH-AWD w/Technology Package 4dr Sedan AWD (3.5L 6cyl 9A),2018,2744
+Acura,TLX,Technology Package 4dr Sedan (2.4L 4cyl 8AM),2018,554
+Acura,TLX,Technology Package 4dr Sedan (3.5L 6cyl 9A),2018,4545
+Audi,A3,1.8 TFSI Premium 2dr Convertible (1.8L 4cyl Turbo 6AM),2018,4161
+Audi,A3,1.8 TFSI Premium 4dr Sedan (1.8L 4cyl Turbo 6AM),2018,3042
+Audi,A3,1.8 TFSI Premium Plus 2dr Convertible (1.8L 4cyl Turbo 6AM),2018,5503
+Audi,A3,1.8 TFSI Premium Plus 4dr Sedan (1.8L 4cyl Turbo 6AM),2018,4408
+Audi,A3,1.8 TFSI Prestige 2dr Convertible (1.8L 4cyl Turbo 6AM),2018,1112
+Audi,A3,1.8 TFSI Prestige 4dr Sedan (1.8L 4cyl Turbo 6AM),2018,5172
+Audi,A3,2.0 TDI Premium 4dr Sedan (2.0L 4cyl Turbodiesel 6AM),2018,2919
+Audi,A3,2.0 TDI Premium Plus 4dr Sedan (2.0L 4cyl Turbodiesel 6AM),2018,656
+Audi,A3,2.0 TDI Prestige 4dr Sedan (2.0L 4cyl Turbodiesel 6AM),2018,4090
+Audi,A3,2.0 TFSI Premium Plus quattro 2dr Convertible AWD (2.0L 4cyl Tur,2018,2561
+Audi,A3,2.0 TFSI Premium Plus quattro 4dr Sedan AWD (2.0L 4cyl Turbo 6AM,2018,5698
+Audi,A3,2.0 TFSI Premium quattro 2dr Convertible AWD (2.0L 4cyl Turbo 6A,2018,4648
+Audi,A3,2.0 TFSI Premium quattro 4dr Sedan AWD (2.0L 4cyl Turbo 6AM),2018,665
+Audi,A3,2.0 TFSI Prestige quattro 2dr Convertible AWD (2.0L 4cyl Turbo 6,2018,2250
+Audi,A3,2.0 TFSI Prestige quattro 4dr Sedan AWD (2.0L 4cyl Turbo 6AM),2018,547
+Audi,A3 e-tron,4dr Hatchback (1.4L 4cyl gas/electric hybrid 6AM),2018,917
+Audi,A4,2.0T Premium 4dr Sedan (2.0L 4cyl Turbo CVT),2018,3642
+Audi,A4,2.0T Premium Plus 4dr Sedan (2.0L 4cyl Turbo CVT),2018,5697
+Audi,A4,2.0T Premium Plus quattro 4dr Sedan AWD (2.0L 4cyl Turbo 6M),2018,4160
+Audi,A4,2.0T Premium Plus quattro 4dr Sedan AWD (2.0L 4cyl Turbo 8A),2018,5607
+Audi,A4,2.0T Premium quattro 4dr Sedan AWD (2.0L 4cyl Turbo 6M),2018,1671
+Audi,A4,2.0T Premium quattro 4dr Sedan AWD (2.0L 4cyl Turbo 8A),2018,4711
+Audi,A4,2.0T Prestige 4dr Sedan (2.0L 4cyl Turbo CVT),2018,5920
+Audi,A4,2.0T Prestige quattro 4dr Sedan AWD (2.0L 4cyl Turbo 6M),2018,1062
+Audi,A4,2.0T Prestige quattro 4dr Sedan AWD (2.0L 4cyl Turbo 8A),2018,2932
+Audi,A5,2.0T Premium Plus quattro 2dr Convertible AWD (2.0L 4cyl Turbo 8,2018,4851
+Audi,A5,2.0T Premium Plus quattro 2dr Coupe AWD (2.0L 4cyl Turbo 6M),2018,352
+Audi,A5,2.0T Premium Plus quattro 2dr Coupe AWD (2.0L 4cyl Turbo 8A),2018,2988
+Audi,A5,2.0T Premium quattro 2dr Convertible AWD (2.0L 4cyl Turbo 8A),2018,1102
+Audi,A5,2.0T Premium quattro 2dr Coupe AWD (2.0L 4cyl Turbo 6M),2018,5609
+Audi,A5,2.0T Premium quattro 2dr Coupe AWD (2.0L 4cyl Turbo 8A),2018,3326
+Audi,A5,2.0T Prestige quattro 2dr Convertible AWD (2.0L 4cyl Turbo 8A),2018,518
+Audi,A5,2.0T Prestige quattro 2dr Coupe AWD (2.0L 4cyl Turbo 6M),2018,506
+Audi,A5,2.0T Prestige quattro 2dr Coupe AWD (2.0L 4cyl Turbo 8A),2018,4616
+Audi,A6,2.0T Premium 4dr Sedan (2.0L 4cyl Turbo CVT),2018,1157
+Audi,A6,2.0T Premium Plus 4dr Sedan (2.0L 4cyl Turbo CVT),2018,1386
+Audi,A6,2.0T Premium Plus quattro 4dr Sedan AWD (2.0L 4cyl Turbo 8A),2018,5406
+Audi,A6,2.0T Premium quattro 4dr Sedan AWD (2.0L 4cyl Turbo 8A),2018,5332
+Audi,A6,3.0T Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A),2018,325
+Audi,A6,3.0T Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A),2018,1776
+Audi,A6,TDI Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A,2018,2409
+Audi,A6,TDI Prestige quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A),2018,1425
+Audi,A7,Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A),2018,2274
+Audi,A7,Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A),2018,1002
+Audi,A7,TDI Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A,2018,2073
+Audi,A7,TDI Prestige quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A),2018,2614
+Audi,A8,3.0T quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A),2018,1135
+Audi,A8,4.0T quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A),2018,4542
+Audi,A8,L 3.0T quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A),2018,4548
+Audi,A8,L 4.0T quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A),2018,1999
+Audi,A8,L TDI quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A),2018,1458
+Audi,A8,L W12 quattro 4dr Sedan AWD (6.3L 12cyl 8A),2018,963
+Audi,allroad,Premium Plus quattro 4dr Wagon AWD (2.0L 4cyl Turbo 8A),2018,2247
+Audi,allroad,Premium quattro 4dr Wagon AWD (2.0L 4cyl Turbo 8A),2018,3928
+Audi,allroad,Prestige quattro 4dr Wagon AWD (2.0L 4cyl Turbo 8A),2018,924
+Audi,Q3,Premium Plus 4dr SUV (2.0L 4cyl Turbo 6A),2018,2084
+Audi,Q3,Premium Plus quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A),2018,518
+Audi,Q3,Prestige 4dr SUV (2.0L 4cyl Turbo 6A),2018,5177
+Audi,Q3,Prestige quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A),2018,5968
+Audi,Q5,2.0T Premium Plus quattro 4dr SUV AWD (2.0L 4cyl Turbo 8A),2018,919
+Audi,Q5,2.0T Premium quattro 4dr SUV AWD (2.0L 4cyl Turbo 8A),2018,2327
+Audi,Q5,2.0T Prestige quattro 4dr SUV AWD (2.0L 4cyl Turbo gas/electric,2018,282
+Audi,Q5,3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A),2018,3782
+Audi,Q5,3.0T Prestige quattro 4dr SUV AWD (3.0L 6cyl S/C 8A),2018,673
+Audi,Q5,TDI Premium Plus quattro 4dr SUV AWD (3.0L 6cyl Turbodiesel 8A),2018,1803
+Audi,Q5,TDI Prestige quattro 4dr SUV AWD (3.0L 6cyl Turbodiesel 8A),2018,5150
+Audi,Q7,3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A),2018,4303
+Audi,Q7,3.0T Premium quattro 4dr SUV AWD (3.0L 6cyl S/C 8A),2018,5675
+Audi,Q7,3.0T S line Prestige quattro 4dr SUV AWD (3.0L 6cyl S/C 8A),2018,744
+Audi,Q7,TDI Premium Plus quattro 4dr SUV AWD (3.0L 6cyl Turbodiesel 8A),2018,1464
+Audi,Q7,TDI Premium quattro 4dr SUV AWD (3.0L 6cyl Turbodiesel 8A),2018,427
+Audi,Q7,TDI Prestige quattro 4dr SUV AWD (3.0L 6cyl Turbodiesel 8A),2018,2138
+Audi,R8,V10 Carbon quattro Spyder 2dr Convertible AWD (5.2L 10cyl 6M),2018,641
+Audi,R8,V10 Carbon quattro Spyder 2dr Convertible AWD (5.2L 10cyl 7AM),2018,3061
+Audi,R8,V10 competition quattro 2dr Coupe AWD (5.2L 10cyl 7AM),2018,5345
+Audi,R8,V10 plus quattro 2dr Coupe AWD (5.2L 10cyl 6M),2018,4167
+Audi,R8,V10 plus quattro 2dr Coupe AWD (5.2L 10cyl 7AM),2018,4056
+Audi,R8,V10 quattro 2dr Coupe AWD (5.2L 10cyl 6M),2018,782
+Audi,R8,V10 quattro 2dr Coupe AWD (5.2L 10cyl 7AM),2018,1559
+Audi,R8,V10 quattro Spyder 2dr Convertible AWD (5.2L 10cyl 6M),2018,4409
+Audi,R8,V10 quattro Spyder 2dr Convertible AWD (5.2L 10cyl 7AM),2018,4619
+Audi,R8,V8 quattro 2dr Coupe AWD (4.2L 8cyl 6M),2018,2119
+Audi,R8,V8 quattro 2dr Coupe AWD (4.2L 8cyl 7AM),2018,3853
+Audi,R8,V8 quattro Spyder 2dr Convertible AWD (4.2L 8cyl 6M),2018,2516
+Audi,R8,V8 quattro Spyder 2dr Convertible AWD (4.2L 8cyl 7AM),2018,3563
+Audi,RS 5,quattro 2dr Convertible AWD (4.2L 8cyl 7AM),2018,4847
+Audi,RS 5,quattro 2dr Coupe AWD (4.2L 8cyl 7AM),2018,699
+Audi,RS 7,Prestige quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A),2018,2042
+Audi,S3,2.0T Premium Plus quattro 4dr Sedan AWD (2.0L 4cyl Turbo 6AM),2018,1261
+Audi,S3,2.0T Prestige quattro 4dr Sedan AWD (2.0L 4cyl Turbo 6AM),2018,2457
+Audi,S4,Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 6M),2018,3367
+Audi,S4,Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 7AM),2018,4151
+Audi,S4,Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 6M),2018,2605
+Audi,S4,Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 7AM),2018,3957
+Audi,S5,Premium Plus quattro 2dr Convertible AWD (3.0L 6cyl S/C 7AM),2018,5922
+Audi,S5,Premium Plus quattro 2dr Coupe AWD (3.0L 6cyl S/C 6M),2018,2275
+Audi,S5,Premium Plus quattro 2dr Coupe AWD (3.0L 6cyl S/C 7AM),2018,5460
+Audi,S5,Prestige quattro 2dr Convertible AWD (3.0L 6cyl S/C 7AM),2018,4276
+Audi,S5,Prestige quattro 2dr Coupe AWD (3.0L 6cyl S/C 6M),2018,4181
+Audi,S5,Prestige quattro 2dr Coupe AWD (3.0L 6cyl S/C 7AM),2018,3010
+Audi,S6,quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM),2018,66
+Audi,S7,quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM),2018,982
+Audi,S8,quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A),2018,2118
+Audi,SQ5,3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A),2018,2113
+Audi,SQ5,3.0T Prestige quattro 4dr SUV AWD (3.0L 6cyl S/C 8A),2018,2251
+Audi,TT,2.0T quattro 2dr Convertible AWD (2.0L 4cyl Turbo 6AM),2018,917
+Audi,TT,2.0T quattro 2dr Coupe AWD (2.0L 4cyl Turbo 6AM),2018,1398
+Audi,TTS,quattro 2dr Convertible AWD (2.0L 4cyl Turbo 6AM),2018,4825
+Audi,TTS,quattro 2dr Coupe AWD (2.0L 4cyl Turbo 6AM),2018,5996
+Bentley,Continental GT,2dr Convertible AWD (6.0L 12cyl Turbo 8A),2018,3630
+Bentley,Continental GT,2dr Coupe AWD (6.0L 12cyl Turbo 8A),2018,5645
+Bentley,Continental GT,Speed 2dr Convertible AWD (6.0L 12cyl Turbo 8A),2018,3024
+Bentley,Continental GT,Speed 2dr Coupe AWD (6.0L 12cyl Turbo 8A),2018,5236
+Bentley,Continental GT,V8 2dr Convertible AWD (4.0L 8cyl Turbo 8A),2018,3704
+Bentley,Continental GT,V8 2dr Coupe AWD (4.0L 8cyl Turbo 8A),2018,63
+Bentley,Continental GT,V8 S 2dr Convertible AWD (4.0L 8cyl Turbo 8A),2018,1052
+Bentley,Continental GT,V8 S 2dr Coupe AWD (4.0L 8cyl Turbo 8A),2018,5227
+Bentley,Flying Spur,4dr Sedan AWD (4.0L 8cyl Turbo 8A),2018,913
+Bentley,Flying Spur,4dr Sedan AWD (6.0L 12cyl Turbo 8A),2018,2922
+Bentley,Mulsanne,4dr Sedan (6.8L 8cyl Turbo 8A),2018,1220
+BMW,2 Series,228i 2dr Convertible (2.0L 4cyl Turbo 8A),2018,4621
+BMW,2 Series,228i 2dr Coupe (2.0L 4cyl Turbo 8A),2018,5374
+BMW,2 Series,228i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A),2018,3324
+BMW,2 Series,228i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A),2018,647
+BMW,2 Series,228i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A),2018,448
+BMW,2 Series,228i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A),2018,3968
+BMW,2 Series,M235i 2dr Convertible (3.0L 6cyl Turbo 8A),2018,5484
+BMW,2 Series,M235i 2dr Coupe (3.0L 6cyl Turbo 8A),2018,5092
+BMW,2 Series,M235i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A),2018,5169
+BMW,3 Series,320i 4dr Sedan (2.0L 4cyl Turbo 8A),2018,2160
+BMW,3 Series,320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A),2018,2634
+BMW,3 Series,328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A),2018,597
+BMW,3 Series,328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A),2018,1040
+BMW,3 Series,328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A),2018,3120
+BMW,3 Series,328i 4dr Sedan (2.0L 4cyl Turbo 8A),2018,4955
+BMW,3 Series,328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A),2018,1566
+BMW,3 Series,328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A),2018,4169
+BMW,3 Series,328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A),2018,726
+BMW,3 Series,328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A),2018,3798
+BMW,3 Series,335i 4dr Sedan (3.0L 6cyl Turbo 8A),2018,1001
+BMW,3 Series,335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A),2018,39
+BMW,3 Series,ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A,2018,4000
+BMW,3 Series Gran Turismo,328i xDrive 4dr Hatchback AWD (2.0L 4cyl Turbo 8A),2018,5785
+BMW,3 Series Gran Turismo,328i xDrive SULEV 4dr Hatchback AWD (2.0L 4cyl Turbo 8A),2018,4583
+BMW,3 Series Gran Turismo,335i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A),2018,5213
+BMW,4 Series,428i 2dr Convertible (2.0L 4cyl Turbo 8A),2018,3013
+BMW,4 Series,428i 2dr Coupe (2.0L 4cyl Turbo 8A),2018,5865
+BMW,4 Series,428i SULEV 2dr Convertible (2.0L 4cyl Turbo 8A),2018,2795
+BMW,4 Series,428i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A),2018,210
+BMW,4 Series,428i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A),2018,5073
+BMW,4 Series,428i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A),2018,5748
+BMW,4 Series,428i xDrive SULEV 2dr Convertible AWD (2.0L 4cyl Turbo 8A),2018,1687
+BMW,4 Series,428i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A),2018,3183
+BMW,4 Series,435i 2dr Convertible (3.0L 6cyl Turbo 8A),2018,1205
+BMW,4 Series,435i 2dr Coupe (3.0L 6cyl Turbo 8A),2018,1085
+BMW,4 Series,435i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A),2018,3787
+BMW,4 Series,435i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A),2018,3598
+BMW,4 Series Gran Coupe,428i 4dr Sedan (2.0L 4cyl Turbo 8A),2018,5418
+BMW,4 Series Gran Coupe,428i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A),2018,3617
+BMW,4 Series Gran Coupe,428i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A),2018,3329
+BMW,4 Series Gran Coupe,428i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A),2018,1404
+BMW,4 Series Gran Coupe,435i 4dr Sedan (3.0L 6cyl Turbo 8A),2018,4966
+BMW,4 Series Gran Coupe,435i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A),2018,3666
+BMW,5 Series,528i 4dr Sedan (2.0L 4cyl Turbo 8A),2018,2823
+BMW,5 Series,528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A),2018,292
+BMW,5 Series,535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A),2018,405
+BMW,5 Series,535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A),2018,1554
+BMW,5 Series,535i 4dr Sedan (3.0L 6cyl Turbo 8A),2018,3321
+BMW,5 Series,535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A),2018,591
+BMW,5 Series,550i 4dr Sedan (4.4L 8cyl Turbo 8A),2018,4467
+BMW,5 Series,550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A),2018,3127
+BMW,5 Series Gran Turismo,535i 4dr Hatchback (3.0L 6cyl Turbo 8A),2018,4821
+BMW,5 Series Gran Turismo,535i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A),2018,1760
+BMW,5 Series Gran Turismo,550i 4dr Hatchback (4.4L 8cyl Turbo 8A),2018,1656
+BMW,5 Series Gran Turismo,550i xDrive 4dr Hatchback AWD (4.4L 8cyl Turbo 8A),2018,4253
+BMW,6 Series,640i 2dr Convertible (3.0L 6cyl Turbo 8A),2018,3348
+BMW,6 Series,640i 2dr Coupe (3.0L 6cyl Turbo 8A),2018,1570
+BMW,6 Series,640i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A),2018,2600
+BMW,6 Series,640i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A),2018,5667
+BMW,6 Series,650i 2dr Convertible (4.4L 8cyl Turbo 8A),2018,2134
+BMW,6 Series,650i 2dr Coupe (4.4L 8cyl Turbo 8A),2018,4515
+BMW,6 Series,650i xDrive 2dr Convertible AWD (4.4L 8cyl Turbo 8A),2018,4307
+BMW,6 Series,650i xDrive 2dr Coupe AWD (4.4L 8cyl Turbo 8A),2018,5696
+BMW,6 Series Gran Coupe,640i 4dr Sedan (3.0L 6cyl Turbo 8A),2018,2466
+BMW,6 Series Gran Coupe,640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A),2018,159
+BMW,6 Series Gran Coupe,650i 4dr Sedan (4.4L 8cyl Turbo 8A),2018,2456
+BMW,6 Series Gran Coupe,650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A),2018,101
+BMW,7 Series,740i 4dr Sedan (3.0L 6cyl Turbo 8A),2018,3012
+BMW,7 Series,740Ld xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A),2018,3150
+BMW,7 Series,740Li 4dr Sedan (3.0L 6cyl Turbo 8A),2018,1681
+BMW,7 Series,740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A),2018,3048
+BMW,7 Series,750i 4dr Sedan (4.4L 8cyl Turbo 8A),2018,3055
+BMW,7 Series,750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A),2018,2260
+BMW,7 Series,750Li 4dr Sedan (4.4L 8cyl Turbo 8A),2018,2893
+BMW,7 Series,750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A),2018,4693
+BMW,7 Series,760Li 4dr Sedan (6.0L 12cyl Turbo 8A),2018,1881
+BMW,ActiveHybrid 5,4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A),2018,519
+BMW,ActiveHybrid 7,740Li 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A),2018,1330
+BMW,ALPINA B6 Gran Coupe,xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A),2018,5357
+BMW,ALPINA B7,LWB 4dr Sedan (4.4L 8cyl Turbo 8A),2018,226
+BMW,ALPINA B7,LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A),2018,1361
+BMW,ALPINA B7,SWB 4dr Sedan (4.4L 8cyl Turbo 8A),2018,4381
+BMW,ALPINA B7,SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A),2018,5947
+BMW,M3,4dr Sedan (3.0L 6cyl Turbo 6M),2018,5832
+BMW,M4,2dr Convertible (3.0L 6cyl Turbo 6M),2018,2211
+BMW,M4,2dr Coupe (3.0L 6cyl Turbo 6M),2018,3900
+BMW,M5,4dr Sedan (4.4L 8cyl Turbo 7AM),2018,466
+BMW,M6,2dr Convertible (4.4L 8cyl Turbo 7AM),2018,4707
+BMW,M6,2dr Coupe (4.4L 8cyl Turbo 7AM),2018,481
+BMW,M6 Gran Coupe,4dr Sedan (4.4L 8cyl Turbo 7AM),2018,126
+BMW,X1,sDrive28i 4dr SUV (2.0L 4cyl Turbo 8A),2018,1959
+BMW,X1,xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A),2018,2869
+BMW,X1,xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 6A),2018,167
+BMW,X3,sDrive28i 4dr SUV (2.0L 4cyl Turbo 8A),2018,2825
+BMW,X3,xDrive28d 4dr SUV AWD (2.0L 4cyl Turbodiesel 8A),2018,2771
+BMW,X3,xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A),2018,3556
+BMW,X3,xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 8A),2018,3262
+BMW,X4,xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A),2018,5808
+BMW,X4,xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 8A),2018,5757
+BMW,X5,sDrive35i 4dr SUV (3.0L 6cyl Turbo 8A),2018,3154
+BMW,X5,xDrive35d 4dr SUV AWD (3.0L 6cyl Turbodiesel 8A),2018,340
+BMW,X5,xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 8A),2018,2183
+BMW,X5,xDrive50i 4dr SUV AWD (4.4L 8cyl Turbo 8A),2018,941
+BMW,X6,sDrive35i 4dr SUV (3.0L 6cyl Turbo 8A),2018,4477
+BMW,X6,xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 8A),2018,5880
+BMW,X6,xDrive50i 4dr SUV AWD (4.4L 8cyl Turbo 8A),2018,2790
+BMW,Z4,sDrive28i 2dr Convertible (2.0L 4cyl Turbo 6M),2018,5857
+BMW,Z4,sDrive35i 2dr Convertible (3.0L 6cyl Turbo 7AM),2018,4345
+BMW,Z4,sDrive35is 2dr Convertible (3.0L 6cyl Turbo 7AM),2018,4493
+Buick,Enclave,Convenience Group 4dr SUV (3.6L 6cyl 6A),2018,3328
+Buick,Enclave,Leather Group 4dr SUV (3.6L 6cyl 6A),2018,3402
+Buick,Enclave,Leather Group 4dr SUV AWD (3.6L 6cyl 6A),2018,4051
+Buick,Enclave,Premium Group 4dr SUV (3.6L 6cyl 6A),2018,3817
+Buick,Enclave,Premium Group 4dr SUV AWD (3.6L 6cyl 6A),2018,5669
+Buick,Encore,4dr SUV (1.4L 4cyl Turbo 6A),2018,365
+Buick,Encore,4dr SUV AWD (1.4L 4cyl Turbo 6A),2018,1515
+Buick,Encore,Convenience 4dr SUV (1.4L 4cyl Turbo 6A),2018,1354
+Buick,Encore,Convenience 4dr SUV AWD (1.4L 4cyl Turbo 6A),2018,6
+Buick,Encore,Leather 4dr SUV (1.4L 4cyl Turbo 6A),2018,2904
+Buick,Encore,Leather 4dr SUV AWD (1.4L 4cyl Turbo 6A),2018,1684
+Buick,Encore,Premium 4dr SUV (1.4L 4cyl Turbo 6A),2018,1956
+Buick,Encore,Premium 4dr SUV AWD (1.4L 4cyl Turbo 6A),2018,4317
+Buick,LaCrosse,4dr Sedan (2.4L 4cyl gas/electric hybrid 6A),2018,985
+Buick,LaCrosse,Leather Group 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A),2018,52
+Buick,LaCrosse,Leather Group 4dr Sedan AWD (3.6L 6cyl 6A),2018,2186
+Buick,LaCrosse,Premium I Group 4dr Sedan (3.6L 6cyl 6A),2018,2047
+Buick,LaCrosse,Premium I Group 4dr Sedan AWD (3.6L 6cyl 6A),2018,2307
+Buick,LaCrosse,Premium II Group 4dr Sedan (3.6L 6cyl 6A),2018,407
+Buick,Regal,4dr Sedan (2.0L 4cyl Turbo 6A),2018,4728
+Buick,Regal,4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,1182
+Buick,Regal,GS 4dr Sedan (2.0L 4cyl Turbo 6A),2018,1821
+Buick,Regal,GS 4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,1362
+Buick,Regal,Premium I 4dr Sedan (2.0L 4cyl Turbo 6A),2018,385
+Buick,Regal,Premium I 4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,4299
+Buick,Regal,Premium II 4dr Sedan (2.0L 4cyl Turbo 6A),2018,2594
+Buick,Regal,Premium II 4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,2271
+Buick,Verano,4dr Sedan (2.4L 4cyl 6A),2018,908
+Buick,Verano,Convenience Group 4dr Sedan (2.4L 4cyl 6A),2018,3505
+Buick,Verano,Leather Group 4dr Sedan (2.4L 4cyl 6A),2018,5814
+Buick,Verano,Premium Turbo Group 4dr Sedan (2.0L 4cyl Turbo 6A),2018,319
+Cadillac,ATS,Luxury 4dr Sedan (2.0L 4cyl Turbo 6A),2018,1636
+Cadillac,ATS,Luxury 4dr Sedan (2.5L 4cyl 6A),2018,2622
+Cadillac,ATS,Luxury 4dr Sedan (3.6L 6cyl 6A),2018,91
+Cadillac,ATS,Luxury 4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,2131
+Cadillac,ATS,Luxury 4dr Sedan AWD (3.6L 6cyl 6A),2018,836
+Cadillac,ATS,Performance 4dr Sedan (2.0L 4cyl Turbo 6A),2018,1981
+Cadillac,ATS,Performance 4dr Sedan (3.6L 6cyl 6A),2018,706
+Cadillac,ATS,Performance 4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,631
+Cadillac,ATS,Performance 4dr Sedan AWD (3.6L 6cyl 6A),2018,2578
+Cadillac,ATS,Premium 4dr Sedan (2.0L 4cyl Turbo 6A),2018,2347
+Cadillac,ATS,Premium 4dr Sedan (3.6L 6cyl 6A),2018,3677
+Cadillac,ATS,Premium 4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,4665
+Cadillac,ATS,Premium 4dr Sedan AWD (3.6L 6cyl 6A),2018,2946
+Cadillac,ATS,Standard 4dr Sedan (2.0L 4cyl Turbo 6A),2018,5072
+Cadillac,ATS,Standard 4dr Sedan (2.5L 4cyl 6A),2018,2129
+Cadillac,ATS,Standard 4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,3097
+Cadillac,ATS Coupe,Luxury 2dr Coupe (2.0L 4cyl Turbo 6A),2018,615
+Cadillac,ATS Coupe,Luxury 2dr Coupe (3.6L 6cyl 6A),2018,4452
+Cadillac,ATS Coupe,Luxury 2dr Coupe AWD (2.0L 4cyl Turbo 6A),2018,3016
+Cadillac,ATS Coupe,Luxury 2dr Coupe AWD (3.6L 6cyl 6A),2018,4131
+Cadillac,ATS Coupe,Performance 2dr Coupe (2.0L 4cyl Turbo 6A),2018,4126
+Cadillac,ATS Coupe,Performance 2dr Coupe (3.6L 6cyl 6A),2018,4371
+Cadillac,ATS Coupe,Performance 2dr Coupe AWD (2.0L 4cyl Turbo 6A),2018,1277
+Cadillac,ATS Coupe,Performance 2dr Coupe AWD (3.6L 6cyl 6A),2018,2049
+Cadillac,ATS Coupe,Premium 2dr Coupe (2.0L 4cyl Turbo 6A),2018,1001
+Cadillac,ATS Coupe,Premium 2dr Coupe (3.6L 6cyl 6A),2018,5124
+Cadillac,ATS Coupe,Premium 2dr Coupe AWD (2.0L 4cyl Turbo 6A),2018,365
+Cadillac,ATS Coupe,Premium 2dr Coupe AWD (3.6L 6cyl 6A),2018,599
+Cadillac,ATS Coupe,Standard 2dr Coupe (2.0L 4cyl Turbo 6A),2018,2162
+Cadillac,ATS Coupe,Standard 2dr Coupe AWD (2.0L 4cyl Turbo 6A),2018,5329
+Cadillac,CTS,Luxury 4dr Sedan (2.0L 4cyl Turbo 6A),2018,3265
+Cadillac,CTS,Luxury 4dr Sedan (3.6L 6cyl 8A),2018,5112
+Cadillac,CTS,Luxury 4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,757
+Cadillac,CTS,Luxury 4dr Sedan AWD (3.6L 6cyl 6A),2018,2899
+Cadillac,CTS,Performance 4dr Sedan (2.0L 4cyl Turbo 6A),2018,1545
+Cadillac,CTS,Performance 4dr Sedan (3.6L 6cyl 8A),2018,2835
+Cadillac,CTS,Performance 4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,5110
+Cadillac,CTS,Performance 4dr Sedan AWD (3.6L 6cyl 6A),2018,3302
+Cadillac,CTS,Premium 4dr Sedan (2.0L 4cyl Turbo 6A),2018,3948
+Cadillac,CTS,Premium 4dr Sedan (3.6L 6cyl 8A),2018,716
+Cadillac,CTS,Premium 4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,54
+Cadillac,CTS,Premium 4dr Sedan AWD (3.6L 6cyl 6A),2018,4358
+Cadillac,CTS,Standard 4dr Sedan (2.0L 4cyl Turbo 6A),2018,1917
+Cadillac,CTS,Standard 4dr Sedan AWD (2.0L 4cyl Turbo 6A),2018,3724
+Cadillac,CTS,Vsport 4dr Sedan (3.6L 6cyl Turbo 8A),2018,3073
+Cadillac,CTS,Vsport Premium 4dr Sedan (3.6L 6cyl Turbo 8A),2018,1971
+Cadillac,CTS-V Coupe,2dr Coupe (6.2L 8cyl S/C 6M),2018,259
+Cadillac,Escalade,4dr SUV (6.2L 8cyl 6A),2018,4380
+Cadillac,Escalade,4dr SUV 4WD (6.2L 8cyl 6A),2018,3441
+Cadillac,Escalade,Luxury 4dr SUV (6.2L 8cyl 6A),2018,1875
+Cadillac,Escalade,Luxury 4dr SUV 4WD (6.2L 8cyl 6A),2018,3202
+Cadillac,Escalade,Premium 4dr SUV (6.2L 8cyl 6A),2018,3837
+Cadillac,Escalade,Premium 4dr SUV 4WD (6.2L 8cyl 6A),2018,1197
+Cadillac,Escalade ESV,4dr SUV (6.2L 8cyl 6A),2018,5957
+Cadillac,Escalade ESV,4dr SUV 4WD (6.2L 8cyl 6A),2018,3953
+Cadillac,Escalade ESV,Luxury 4dr SUV (6.2L 8cyl 6A),2018,4505
+Cadillac,Escalade ESV,Luxury 4dr SUV 4WD (6.2L 8cyl 6A),2018,431
+Cadillac,Escalade ESV,Premium 4dr SUV (6.2L 8cyl 6A),2018,3054
+Cadillac,Escalade ESV,Premium 4dr SUV 4WD (6.2L 8cyl 6A),2018,5292
+Cadillac,SRX,Luxury 4dr SUV (3.6L 6cyl 6A),2018,1627
+Cadillac,SRX,Luxury 4dr SUV AWD (3.6L 6cyl 6A),2018,1247
+Cadillac,SRX,Performance 4dr SUV (3.6L 6cyl 6A),2018,103
+Cadillac,SRX,Performance 4dr SUV AWD (3.6L 6cyl 6A),2018,2927
+Cadillac,SRX,Premium 4dr SUV (3.6L 6cyl 6A),2018,4995
+Cadillac,SRX,Premium 4dr SUV AWD (3.6L 6cyl 6A),2018,3960
+Cadillac,SRX,Standard 4dr SUV (3.6L 6cyl 6A),2018,2347
+Cadillac,XTS,4dr Sedan (3.6L 6cyl 6A),2018,5702
+Cadillac,XTS,Luxury 4dr Sedan (3.6L 6cyl 6A),2018,5630
+Cadillac,XTS,Luxury 4dr Sedan AWD (3.6L 6cyl 6A),2018,5203
+Cadillac,XTS,Platinum 4dr Sedan (3.6L 6cyl 6A),2018,5731
+Cadillac,XTS,Platinum 4dr Sedan AWD (3.6L 6cyl 6A),2018,5641
+Cadillac,XTS,Premium 4dr Sedan (3.6L 6cyl 6A),2018,1703
+Cadillac,XTS,Premium 4dr Sedan AWD (3.6L 6cyl 6A),2018,1332
+Cadillac,XTS,Vsport Platinum 4dr Sedan AWD (3.6L 6cyl Turbo 6A),2018,97
+Cadillac,XTS,Vsport Premium 4dr Sedan AWD (3.6L 6cyl Turbo 6A),2018,5562
+Chevrolet,Camaro,LS 2dr Coupe w/1LS (3.6L 6cyl 6M),2018,4801
+Chevrolet,Camaro,LS 2dr Coupe w/2LS (3.6L 6cyl 6A),2018,174
+Chevrolet,Camaro,LT 2dr Convertible w/1LT (3.6L 6cyl 6M),2018,855
+Chevrolet,Camaro,LT 2dr Convertible w/2LT (3.6L 6cyl 6M),2018,204
+Chevrolet,Camaro,LT 2dr Coupe w/1LT (3.6L 6cyl 6M),2018,5421
+Chevrolet,Camaro,LT 2dr Coupe w/2LT (3.6L 6cyl 6M),2018,2437
+Chevrolet,Camaro,SS 2dr Convertible w/1SS (6.2L 8cyl 6M),2018,5698
+Chevrolet,Camaro,SS 2dr Convertible w/2SS (6.2L 8cyl 6M),2018,3499
+Chevrolet,Camaro,SS 2dr Coupe w/1SS (6.2L 8cyl 6M),2018,2420
+Chevrolet,Camaro,SS 2dr Coupe w/2SS (6.2L 8cyl 6M),2018,1770
+Chevrolet,Camaro,Z/28 2dr Coupe (7.0L 8cyl 6M),2018,2617
+Chevrolet,Camaro,ZL1 2dr Convertible (6.2L 8cyl S/C 6M),2018,893
+Chevrolet,Camaro,ZL1 2dr Coupe (6.2L 8cyl S/C 6M),2018,587
+Chevrolet,City Express,LS 4dr Cargo Minivan (2.0L 4cyl CVT),2018,1609
+Chevrolet,City Express,LT 4dr Cargo Minivan (2.0L 4cyl CVT),2018,5306
+Chevrolet,Colorado,4dr Extended Cab SB (2.5L 4cyl 6M),2018,5306
+Chevrolet,Colorado,LT 4dr Crew Cab 4WD LB (3.6L 6cyl 6A),2018,5644
+Chevrolet,Colorado,LT 4dr Crew Cab 4WD SB (3.6L 6cyl 6A),2018,914
+Chevrolet,Colorado,LT 4dr Crew Cab LB (3.6L 6cyl 6A),2018,3418
+Chevrolet,Colorado,LT 4dr Crew Cab SB (2.5L 4cyl 6A),2018,2055
+Chevrolet,Colorado,LT 4dr Extended Cab Pickup 4WD (3.6L 6cyl 6A),2018,4072
+Chevrolet,Colorado,LT 4dr Extended Cab SB (2.5L 4cyl 6A),2018,4335
+Chevrolet,Colorado,Work Truck 4dr Crew Cab 4WD LB (3.6L 6cyl 6A),2018,5941
+Chevrolet,Colorado,Work Truck 4dr Crew Cab 4WD SB (3.6L 6cyl 6A),2018,5121
+Chevrolet,Colorado,Work Truck 4dr Crew Cab LB (3.6L 6cyl 6A),2018,3465
+Chevrolet,Colorado,Work Truck 4dr Crew Cab SB (2.5L 4cyl 6A),2018,1282
+Chevrolet,Colorado,Work Truck 4dr Extended Cab 4WD SB (2.5L 4cyl 6A),2018,5180
+Chevrolet,Colorado,Work Truck 4dr Extended Cab SB (2.5L 4cyl 6M),2018,4361
+Chevrolet,Colorado,Z71 4dr Crew Cab 4WD LB (3.6L 6cyl 6A),2018,1432
+Chevrolet,Colorado,Z71 4dr Crew Cab 4WD SB (3.6L 6cyl 6A),2018,2075
+Chevrolet,Colorado,Z71 4dr Crew Cab LB (3.6L 6cyl 6A),2018,5282
+Chevrolet,Colorado,Z71 4dr Crew Cab SB (2.5L 4cyl 6A),2018,2662
+Chevrolet,Colorado,Z71 4dr Extended Cab 4WD SB (2.5L 4cyl 6A),2018,1659
+Chevrolet,Colorado,Z71 4dr Extended Cab SB (2.5L 4cyl 6A),2018,4631
+Chevrolet,Corvette,Stingray 2dr Convertible w/1LT (6.2L 8cyl 7M),2018,2872
+Chevrolet,Corvette,Stingray 2dr Convertible w/2LT (6.2L 8cyl 7M),2018,3925
+Chevrolet,Corvette,Stingray 2dr Convertible w/3LT (6.2L 8cyl 7M),2018,4865
+Chevrolet,Corvette,Stingray 2dr Coupe w/1LT (6.2L 8cyl 7M),2018,882
+Chevrolet,Corvette,Stingray 2dr Coupe w/2LT (6.2L 8cyl 7M),2018,4921
+Chevrolet,Corvette,Stingray 2dr Coupe w/3LT (6.2L 8cyl 7M),2018,5570
+Chevrolet,Corvette,Stingray Z51 2dr Convertible w/1LT (6.2L 8cyl 7M),2018,3117
+Chevrolet,Corvette,Stingray Z51 2dr Convertible w/2LT (6.2L 8cyl 7M),2018,1708
+Chevrolet,Corvette,Stingray Z51 2dr Convertible w/3LT (6.2L 8cyl 7M),2018,5114
+Chevrolet,Corvette,Stingray Z51 2dr Coupe w/1LT (6.2L 8cyl 7M),2018,4376
+Chevrolet,Corvette,Stingray Z51 2dr Coupe w/2LT (6.2L 8cyl 7M),2018,980
+Chevrolet,Corvette,Stingray Z51 2dr Coupe w/3LT (6.2L 8cyl 7M),2018,2693
+Chevrolet,Corvette,Z06 2dr Convertible w/1LZ (6.2L 8cyl S/C 7M),2018,3877
+Chevrolet,Corvette,Z06 2dr Convertible w/2LZ (6.2L 8cyl S/C 7M),2018,2637
+Chevrolet,Corvette,Z06 2dr Convertible w/3LZ (6.2L 8cyl S/C 7M),2018,3819
+Chevrolet,Corvette,Z06 2dr Coupe w/1LZ (6.2L 8cyl S/C 7M),2018,3055
+Chevrolet,Corvette,Z06 2dr Coupe w/2LZ (6.2L 8cyl S/C 7M),2018,3061
+Chevrolet,Corvette,Z06 2dr Coupe w/3LZ (6.2L 8cyl S/C 7M),2018,550
+Chevrolet,Cruze,1LT 4dr Sedan (1.4L 4cyl Turbo 6A),2018,5024
+Chevrolet,Cruze,1LT 4dr Sedan (1.4L 4cyl Turbo 6M),2018,5481
+Chevrolet,Cruze,2LT 4dr Sedan (1.4L 4cyl Turbo 6A),2018,4151
+Chevrolet,Cruze,Diesel 4dr Sedan (2.0L 4cyl Turbodiesel 6A),2018,1064
+Chevrolet,Cruze,Eco 4dr Sedan (1.4L 4cyl Turbo 6A),2018,3761
+Chevrolet,Cruze,Eco 4dr Sedan (1.4L 4cyl Turbo 6M),2018,2071
+Chevrolet,Cruze,LS 4dr Sedan (1.8L 4cyl 6A),2018,873
+Chevrolet,Cruze,LS 4dr Sedan (1.8L 4cyl 6M),2018,30
+Chevrolet,Cruze,LTZ 4dr Sedan (1.4L 4cyl Turbo 6A),2018,1993
+Chevrolet,Equinox,LS 4dr SUV (2.4L 4cyl 6A),2018,1071
+Chevrolet,Equinox,LS 4dr SUV AWD (2.4L 4cyl 6A),2018,2533
+Chevrolet,Equinox,LT 4dr SUV AWD w/1LT (2.4L 4cyl 6A),2018,4585
+Chevrolet,Equinox,LT 4dr SUV AWD w/2LT (2.4L 4cyl 6A),2018,85
+Chevrolet,Equinox,LT 4dr SUV w/1LT (2.4L 4cyl 6A),2018,2248
+Chevrolet,Equinox,LT 4dr SUV w/2LT (2.4L 4cyl 6A),2018,3031
+Chevrolet,Equinox,LTZ 4dr SUV (2.4L 4cyl 6A),2018,1774
+Chevrolet,Equinox,LTZ 4dr SUV AWD (2.4L 4cyl 6A),2018,3863
+Chevrolet,Express,LS 2500 3dr Van (4.8L 8cyl 6A),2018,920
+Chevrolet,Express,LS 3500 3dr Ext Van (4.8L 8cyl 6A),2018,3321
+Chevrolet,Express,LS 3500 3dr Ext Van (6.6L 8cyl Turbodiesel 6A),2018,801
+Chevrolet,Express,LS 3500 3dr Van (4.8L 8cyl 6A),2018,1799
+Chevrolet,Express,LS 3500 3dr Van (6.6L 8cyl Turbodiesel 6A),2018,2989
+Chevrolet,Express,LT 2500 3dr Van (4.8L 8cyl 6A),2018,5653
+Chevrolet,Express,LT 3500 3dr Ext Van (4.8L 8cyl 6A),2018,1964
+Chevrolet,Express,LT 3500 3dr Ext Van (6.6L 8cyl Turbodiesel 6A),2018,4358
+Chevrolet,Express,LT 3500 3dr Van (4.8L 8cyl 6A),2018,3155
+Chevrolet,Express,LT 3500 3dr Van (6.6L 8cyl Turbodiesel 6A),2018,83
+Chevrolet,Express Cargo,2500 3dr Ext Van (4.8L 8cyl 6A),2018,4242
+Chevrolet,Express Cargo,2500 3dr Ext Van (6.6L 8cyl Turbodiesel 6A),2018,2832
+Chevrolet,Express Cargo,2500 3dr Van (4.8L 8cyl 6A),2018,1246
+Chevrolet,Express Cargo,2500 3dr Van (6.6L 8cyl Turbodiesel 6A),2018,1422
+Chevrolet,Express Cargo,3500 3dr Ext Van (4.8L 8cyl 6A),2018,2958
+Chevrolet,Express Cargo,3500 3dr Ext Van (6.6L 8cyl Turbodiesel 6A),2018,374
+Chevrolet,Express Cargo,3500 3dr Van (4.8L 8cyl 6A),2018,4477
+Chevrolet,Express Cargo,3500 3dr Van (6.6L 8cyl Turbodiesel 6A),2018,1921
+Chevrolet,Impala,LS 4dr Sedan w/1LS (2.5L 4cyl 6A),2018,215
+Chevrolet,Impala,LT 4dr Sedan w/1LT (2.5L 4cyl 6A),2018,2268
+Chevrolet,Impala,LT 4dr Sedan w/2LT (3.6L 6cyl 6A),2018,3648
+Chevrolet,Impala,LT 4dr Sedan w/3LT (3.6L 6cyl 6A),2018,5060
+Chevrolet,Impala,LTZ 4dr Sedan w/1LZ (2.5L 4cyl 6A),2018,548
+Chevrolet,Impala,LTZ 4dr Sedan w/2LZ (3.6L 6cyl 6A),2018,3624
+Chevrolet,Malibu,LS 4dr Sedan (2.5L 4cyl 6A),2018,3599
+Chevrolet,Malibu,LT 4dr Sedan w/1LT (2.5L 4cyl 6A),2018,2255
+Chevrolet,Malibu,LT 4dr Sedan w/2LT (2.5L 4cyl 6A),2018,4639
+Chevrolet,Malibu,LT 4dr Sedan w/3LT (2.0L 4cyl Turbo 6A),2018,5523
+Chevrolet,Malibu,LTZ 4dr Sedan w/1LZ (2.5L 4cyl 6A),2018,2485
+Chevrolet,Malibu,LTZ 4dr Sedan w/2LZ (2.0L 4cyl Turbo 6A),2018,4889
+Chevrolet,Silverado 1500,High Country 4dr Crew Cab 4WD 5.8 ft. SB (5.3L 8cyl 6A),2018,3171
+Chevrolet,Silverado 1500,High Country 4dr Crew Cab 4WD 6.5 ft. SB (5.3L 8cyl 6A),2018,4786
+Chevrolet,Silverado 1500,High Country 4dr Crew Cab 5.8 ft. SB (5.3L 8cyl 6A),2018,3973
+Chevrolet,Silverado 1500,High Country 4dr Crew Cab 6.5 ft. SB (5.3L 8cyl 6A),2018,1377
+Chevrolet,Silverado 1500,LS 2dr Regular Cab 4WD LB (4.3L 6cyl 6A),2018,977
+Chevrolet,Silverado 1500,LS 2dr Regular Cab 4WD SB (4.3L 6cyl 6A),2018,5659
+Chevrolet,Silverado 1500,LS 2dr Regular Cab LB (4.3L 6cyl 6A),2018,195
+Chevrolet,Silverado 1500,LS 2dr Regular Cab SB (4.3L 6cyl 6A),2018,5781
+Chevrolet,Silverado 1500,LS 4dr Crew Cab 4WD 5.8 ft. SB (4.3L 6cyl 6A),2018,3968
+Chevrolet,Silverado 1500,LS 4dr Crew Cab 4WD 6.5 ft. SB (4.3L 6cyl 6A),2018,1418
+Chevrolet,Silverado 1500,LS 4dr Crew Cab 5.8 ft. SB (4.3L 6cyl 6A),2018,4152
+Chevrolet,Silverado 1500,LS 4dr Crew Cab 6.5 ft. SB (4.3L 6cyl 6A),2018,5072
+Chevrolet,Silverado 1500,LS 4dr Double Cab 4WD SB (4.3L 6cyl 6A),2018,4777
+Chevrolet,Silverado 1500,LS 4dr Double Cab SB (4.3L 6cyl 6A),2018,1993
+Chevrolet,Silverado 1500,LT 2dr Regular Cab 4WD LB (4.3L 6cyl 6A),2018,2975
+Chevrolet,Silverado 1500,LT 2dr Regular Cab 4WD SB (4.3L 6cyl 6A),2018,1207
+Chevrolet,Silverado 1500,LT 2dr Regular Cab LB (4.3L 6cyl 6A),2018,3142
+Chevrolet,Silverado 1500,LT 2dr Regular Cab SB (4.3L 6cyl 6A),2018,2936
+Chevrolet,Silverado 1500,LT 4dr Crew Cab 4WD 5.8 ft. SB (4.3L 6cyl 6A),2018,5806
+Chevrolet,Silverado 1500,LT 4dr Crew Cab 4WD 6.5 ft. SB (4.3L 6cyl 6A),2018,4946
+Chevrolet,Silverado 1500,LT 4dr Crew Cab 5.8 ft. SB (4.3L 6cyl 6A),2018,690
+Chevrolet,Silverado 1500,LT 4dr Crew Cab 6.5 ft. SB (4.3L 6cyl 6A),2018,5165
+Chevrolet,Silverado 1500,LTZ 4dr Crew Cab 4WD 5.8 ft. SB (5.3L 8cyl 6A),2018,5262
+Chevrolet,Silverado 1500,LTZ 4dr Crew Cab 4WD 6.5 ft. SB (5.3L 8cyl 6A),2018,2231
+Chevrolet,Silverado 1500,LTZ 4dr Crew Cab 5.8 ft. SB (5.3L 8cyl 6A),2018,4048
+Chevrolet,Silverado 1500,LTZ 4dr Crew Cab 6.5 ft. SB (5.3L 8cyl 6A),2018,1816
+Chevrolet,Silverado 1500,LTZ 4dr Double Cab 4WD SB (5.3L 8cyl 6A),2018,3227
+Chevrolet,Silverado 1500,LTZ 4dr Double Cab SB (5.3L 8cyl 6A),2018,1775
+Chevrolet,Silverado 1500,Work Truck 2dr Regular Cab 4WD LB (4.3L 6cyl 6A),2018,5441
+Chevrolet,Silverado 1500,Work Truck 2dr Regular Cab 4WD SB (4.3L 6cyl 6A),2018,1941
+Chevrolet,Silverado 1500,Work Truck 2dr Regular Cab LB (4.3L 6cyl 6A),2018,4118
+Chevrolet,Silverado 1500,Work Truck 2dr Regular Cab SB (4.3L 6cyl 6A),2018,5919
+Chevrolet,Silverado 1500,Work Truck 4dr Crew Cab 4WD 5.8 ft. SB (4.3L 6cyl 6A),2018,1494
+Chevrolet,Silverado 1500,Work Truck 4dr Crew Cab 4WD 6.5 ft. SB (4.3L 6cyl 6A),2018,5869
+Chevrolet,Silverado 1500,Work Truck 4dr Crew Cab 5.8 ft. SB (4.3L 6cyl 6A),2018,5225
+Chevrolet,Silverado 1500,Work Truck 4dr Crew Cab 6.5 ft. SB (4.3L 6cyl 6A),2018,3563
+Chevrolet,Silverado 1500,Work Truck 4dr Double Cab SB (4.3L 6cyl 6A),2018,1579

@@ -1,0 +1,17 @@
+schema {
+    query:Query
+}
+
+type Query {
+    cars: [Car]
+    carsByMakeFilter(cmd:String): [Car]
+    carsByModelFilter(cmd:String, make:String): [Car]
+}
+
+type Car {
+    make: String
+    model: String
+    trim : String
+    year: Int
+    tco: Int
+}
