@@ -78,5 +78,5 @@ Conclusion PROS of GraphQL:
 
 Conclusion CONS of GraphQL:
 1) GraphQL does't have support for browser and mobile caching unlike RESTful service which uses native HTTP caching mechanisms
-2) RESTful services leverage the HTTP status codes for different errors that can be encountered. This makes the monitoring the APIs very easy and effortless for the developer. But with GraphQL services always return 200 OK response. A typical GraphQL error message looks like this with status code 200 OK.
+2) RESTful services leverage the HTTP status codes for different errors that can be encountered. This makes the monitoring the APIs very easy and effortless for the developer. But with GraphQL services always return 200 OK response. A typical GraphQL error message looks like this (message: 'Some error occurred') with status code 200 OK.
 3) Unlike RESTful services GraphQL services mandates that the client has to know about the data schema to query. 
