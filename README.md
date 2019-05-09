@@ -70,7 +70,7 @@ The GraphQL approach is much more flexible and is able to overcome the major sho
 
 There are cases the one or the other approach would yield better results, but that greatly depends on your situation. :)
 
-###### SOME OF NY CONCLUSIONS
+###### SOME OF MY CONCLUSIONS
 
 Conclusion PROS of GraphQL:
 1) A GraphQL service exposes only one endpoints through which the client can pass the necessary query to retrieve the data.
